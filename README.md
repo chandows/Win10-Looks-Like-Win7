@@ -1,10 +1,12 @@
-# Windows-7-Style-Explorer
-This project can help you changing your Windows 10 "This PC" icons to Windows 7 style. 
+# Win10-Looks-Like-Win7
+This project can help you change Windows 10 "This PC" icons to Windows 7 style.
+And some useful setting.
 
-Download the "Windows 7 style explorer.zip"
+What's inside the zip file?
 
-1. Install OldNewExplorer, use the exact same setting
-2. Install StartIsBack
-3. Hide the 3D Object folder
-4. Copy the "icons" folder into your C drive
-5. Double click the disk.reg and folder.reg to apply change icons
+1. OldNewExplorer, change the file explorer menu
+2. Winaero Tweaker, hide "3D objects" and "desktop" folder
+3. Change "This PC" icons to Win7/10/11
+4. Change active/inactive title bar color
+5. Remove "Burn to disc" button
+6. Set Windows 10 target version
